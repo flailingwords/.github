@@ -34,9 +34,11 @@ The Flailing Words Project is left-leaning and science affirming.
 
 The Flailing Words Project is founded on the principle that under the current colonialist systems/kyriarchy, trans rights are Black rights are women's rights are Palestinian rights are children's rights are Indigenous rights are queer rights are Brown/Persons of Colour rights are disability rights are health rights, and that because of the interactions of all these power systems, this project upholds the value that Marginalized Lives Matter.
 
-Only in recognizing that humanity rights are universal and immutable, recognizing that science is a fact-based system that changes over time based on better understanding of the world, that no one is above accountability, and that our current systems of power are inherently traumatizing, is it that we can fully acknowledge our common humanity and work towards a better, more peaceful world.
-s
-The Flailing Words Project hopes to establish open/"open source" think-tanks to encourage open out-of-the-box conversations to come up with alternatives for a future that will be able to handle global challenges, such as global warming.
+The Flailing Words Project recognizes that humanity rights need to be universally-mutual, immutable and non-negotiable, accepts science as a fact-based system that changes over time based on better understanding of the world, that no one is above accountability, that our current systems of power are inherently colonial and traumatizing, and that not only our knowledge but also our morality and our thinking in general has been constrained by the colonial systems at large.
+
+The Flailing Words Project is founded upon the principle that once we fully acknowledge our common humanity and commit to our foundational equality, free from any prescribed or perceived supremacy, that we can work towards a better, more just and more peaceful world.
+
+The Flailing Words Project hopes to establish open/"open source" think-tanks to encourage open, out-of-the-box conversations to come up with alternatives for a future that will be able to handle existing and emergent global challenges, such as climate change.
 
 Opinions formed under the current colonial system as it has been in place for centuries, will inevitably be informed and constrained by the way of thinking taught by this system and its institutions.
 
