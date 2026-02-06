@@ -22,11 +22,11 @@ Once the first step has been marked as done, we can then either continue and add
 
 6 Steps Into The Future is intended as a general framework that can work for both personal productivity and for tackling far reaching issues like climate change.
 
-### Future Technologies
+### Collective Research for the Advancement of Future Technologies
 
 The Flailing Words Project also aims to set up infrastructure for future technologies projects.
 
-While we currently have technologies, like 3D printing, that have broken out of the existing molds, in order to deal with imminently changing futures, we will have to rethink and reshape the future and its technologies.
+While we currently have technologies, like 3D printing, that have broken out of the existing molds of centralized production, in order to deal with imminently changing futures, we will have to rethink and reshape the future and its technologies.
 
 ## Core Values
 
