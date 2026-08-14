@@ -1,1 +1,49 @@
-# .github
+# Flailing Words
+
+## Intro
+
+Hi there!
+
+Welcome to the Flailing Words project.
+
+Flailing Words is the catch-all domain/project for various fun, future-focused or public good projects by ponderer, tinkerer and mixed/cross-media artist Nick Harrow that do not fit traditional categories.
+
+The Flailing Words banner will also be available for others to host their projects, if they fit under the banner.
+
+The mission for Flailing Words is to enable experiments that are aimed to follow the 6 Steps Into The Future pattern.
+
+## Imminent Projects
+
+### 6 Steps Into The Future
+
+6 Steps Into The Future is intended as a framework that instead of writing long detailed plans about what needs to be done, we set the end goal - step 6 - and define the nearest 5 steps to reach this goal.
+
+Once the first step has been marked as done, we can then either continue and add an additional step, or we can reevaluate our next steps.
+
+6 Steps Into The Future is intended as a general framework that can work for both personal productivity and for tackling far reaching issues like climate change.
+
+### Collective Research for the Advancement of Future Technologies
+
+The Flailing Words Project also aims to set up infrastructure for future technologies projects.
+
+While we currently have technologies, like 3D printing, that have broken out of the existing molds of centralized production, in order to deal with imminently changing futures, we will have to rethink and reshape the future and its technologies.
+
+## Core Values
+
+The Flailing Words Project is left-leaning and science affirming.
+
+The Flailing Words Project is founded on the principle that under the current colonialist systems/kyriarchy, trans rights are Black rights are women's rights are Palestinian rights are children's rights are Indigenous rights are queer rights are Brown/Persons of Colour rights are disability rights are health rights, and that because of the interactions of all these power systems, this project upholds the value that Marginalized Lives Matter.
+
+The Flailing Words Project recognizes that humanity rights need to be universally-mutual, immutable and non-negotiable, accepts science as a fact-based system that changes over time based on better understanding of the world, that no one is above accountability, that our current systems of power are inherently colonial and traumatizing, and that not only our knowledge but also our morality and our thinking in general has been constrained by the colonial systems at large.
+
+The Flailing Words Project is founded upon the principle that once we fully acknowledge our common humanity and commit to our foundational equality, free from any prescribed or perceived supremacy, that we can work towards a better, more just and more peaceful world.
+
+The Flailing Words Project hopes to establish open/"open source" think-tanks to encourage open, out-of-the-box conversations to come up with alternatives for a future that will be able to handle existing and emergent global challenges, such as climate change.
+
+Opinions formed under the current colonial system as it has been in place for centuries, will inevitably be informed and constrained by the way of thinking taught by this system and its institutions.
+
+The Flailing Words Project aims to provide a platform for non-traditional thinking.
+
+## Projects
+
+See the repositories for current projects.
